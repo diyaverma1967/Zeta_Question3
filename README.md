@@ -1,4 +1,4 @@
-# Loan-API
+# Zeta_Question3 : Banking API
 
 **FastAPI** service for debiting an account and concurrent safety. 
 
